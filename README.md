@@ -99,5 +99,5 @@ Response:
 
 The sample database in the main file of the project in CSV format.
 
-`example.csv`
+`example_db.sql`
 
